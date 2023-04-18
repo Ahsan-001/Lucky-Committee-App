@@ -1,0 +1,11 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "workbench.colorCustomizations": {
+        "[Material Theme Darker]": {
+            "statusBar.debuggingBackground": "#212121"
+        },
+        "activityBar.background": "#063600",
+        "titleBar.activeBackground": "#084C01",
+        "titleBar.activeForeground": "#EFFFED"
+    }
+}
